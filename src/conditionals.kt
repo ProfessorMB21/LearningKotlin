@@ -1,5 +1,3 @@
-import kotlin.math.PI
-
 // Conditionals in Kotlin
 
 fun main() {
