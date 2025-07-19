@@ -1,5 +1,4 @@
 import kotlin.random.Random
-import kotlin.random.nextInt
 
 // Nested loops and labels in Kotlin
 // Labels in Kotlin can be used in nested loops to affect the control-flow of
